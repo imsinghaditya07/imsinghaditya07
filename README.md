@@ -1,18 +1,125 @@
- 💫 About Me:
-Hi there, I'm Aditya Singh 👋<br><br> 🚀 About Me<br><br>I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** at Maulana Abul Kalam Azad University of Technology, West Bengal. I'm passionate about building data-driven solutions and applying AI to solve real-world problems.<br><br>### 💡 What I Do<br><br>- 🤖 **Machine Learning & AI**: Building and training ML models, working with data preprocessing, model evaluation, and deployment<br>- 💻 **Programming**: Proficient in Python and C with strong problem-solving skills<br>- 📊 **Data Analysis**: Transforming raw data into actionable insights using analytical techniques<br>- 🧠 **Generative AI**: Exploring cutting-edge GenAI tools and applications<br><br>### 🔭 Current Focus<br><br>- Deepening my understanding of machine learning algorithms and their practical applications<br>- Working on hands-on ML projects to bridge theory and practice<br>- Contributing to innovation-driven communities and collaborative environments<br><br>### 🌱 Experience<br><br>- **Machine Learning Intern** @ CantiLever.in (Dec 2025 - Feb 2026)<br>- **Machine Learning Intern** @ Prodigy InfoTech (Nov 2025 - Dec 2025)<br>- **Campus Ambassador** @ eDC IIT Delhi (Dec 2025 - Present)<br>- **Coordinator** @ Robonixx BCET (Dec 2025 - Present)<br><br>### 🎓 Certifications<br><br>- GenAI Powered Data Analytics Job Simulation<br>- Technology Job Simulation<br>- Introduction to AI Concepts<br>- Google Analytics Individual Qualification<br>- Generative AI Professional<br><br>### 🛠️ Tech Stack<br><br>**Languages**: Python | C  <br>**Focus Areas**: Machine Learning | Data Analysis | Generative AI | Artificial Intelligence  <br>**Tools**: GenAI Tools | Data Analytics Platforms<br><br>### 📫 Let's Connect<br><br>- 📧 Email: [imsinghaditya07@gmail.com](mailto:imsinghaditya07@gmail.com)<br>- 💼 LinkedIn: [linkedin.com/in/imsinghaditya07](https://www.linkedin.com/in/imsinghaditya07)<br>- 📍 Location: West Bengal, India<br><br>### 🎯 What Drives Me<br><br>I believe in continuous learning and staying at the forefront of AI innovation. My journey in machine learning is fueled by curiosity and a commitment to creating scalable, impactful solutions. I thrive in fast-paced, team-oriented environments where collaboration meets innovation.<br><br>---<br><br>💬 *"Always learning, always building, always growing"*<br><br>![Profile Views](https://komarev.com/ghpvc/?username=imsinghaditya07&color=blueviolet)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Aditya%20Singh%20👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descAlignY=51&descAlign=62" />
+  
+  <br>
+  
+  <a href="https://linkedin.com/in/imsinghaditya07"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:imsinghaditya07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  
+  <br><br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imsinghaditya07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imsinghaditya07@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Aspiring+Machine+Learning+Engineer;B.Tech+student+in+AI+%26+ML;Passionate+about+data-driven+solutions" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imsinghaditya07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** at Maulana Abul Kalam Azad University of Technology, West Bengal. I'm passionate about building data-driven solutions and applying AI to solve real-world problems.
+
+### 💡 What I Do
+
+- 🤖 **Machine Learning & AI**: Building and training ML models, working with data preprocessing, model evaluation, and deployment
+- 💻 **Programming**: Proficient in Python and C with strong problem-solving skills
+- 📊 **Data Analysis**: Transforming raw data into actionable insights using analytical techniques
+- 🧠 **Generative AI**: Exploring cutting-edge GenAI tools and applications
+
+**Current Focus:** Deepening my understanding of machine learning algorithms and contributing to innovation-driven communities.
+
+---
+
+### 🌱 Experience & 🎓 Certifications
+
+**Experience:**
+- **Machine Learning Intern** @ CantiLever.in (Dec 2025 - Feb 2026)
+- **Machine Learning Intern** @ Prodigy InfoTech (Nov 2025 - Dec 2025)
+- **Campus Ambassador** @ eDC IIT Delhi (Dec 2025 - Present)
+- **Coordinator** @ Robonixx BCET (Dec 2025 - Present)
+
+**Certifications:**
+- GenAI Powered Data Analytics Job Simulation
+- Technology Job Simulation
+- Introduction to AI Concepts
+- Google Analytics Individual Qualification
+- Generative AI Professional
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<details open>
+  <summary><b>Languages & Cloud (Click to toggle)</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash&theme=dark" alt="Tech Stack" />
+    </a>
+  </div>
+</details>
+
+<details open>
+  <summary><b>Design Tools (Click to toggle)</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ps,pr,lr&theme=dark" alt="Design Tools" />
+    </a>
+  </div>
+</details>
+
+<br>
+
+**Focus Areas**: Machine Learning | Data Analysis | Generative AI | Artificial Intelligence
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imsinghaditya07&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <h4>🐍 My GitHub Contributions Snake:</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🎯 What Drives Me
+
+I believe in continuous learning and staying at the forefront of AI innovation. My journey in machine learning is fueled by curiosity and a commitment to creating scalable, impactful solutions. I thrive in fast-paced, team-oriented environments where collaboration meets innovation.
+
+<div align="center">
+  <h4>💬 Quote of the Day:</h4>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imsinghaditya07&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<!-- Proudly updated for an epic GitHub Profile -->
