@@ -52,18 +52,22 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
   <br>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash,docker,kubernetes,jupyter&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash,docker,kubernetes,jupyter,supabase&theme=dark" alt="Tech Stack" />
     </a>
   </div>
 </details>
 
 <details open>
-  <summary><b>Design Tools (Click to toggle)</b></summary>
+  <summary><b>Design & Video Editing Tools (Click to toggle)</b></summary>
   <br>
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ps,pr,lr&theme=dark" alt="Design Tools" />
     </a>
+    <br><br>
+    <img src="https://img.shields.io/badge/DaVinci_Resolve-9040D4?style=flat-square&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
+    <img src="https://img.shields.io/badge/Filmora-00A9E0?style=flat-square&logo=git&logoColor=white" alt="Filmora" />
+    <img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=flat-square&logo=applemusic&logoColor=white" alt="Final Cut Pro" />
   </div>
 </details>
 
