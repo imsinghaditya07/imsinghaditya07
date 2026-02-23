@@ -71,27 +71,16 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 
 **Focus Areas**: Machine Learning | Data Analysis | Generative AI | Artificial Intelligence
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imsinghaditya07&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
 </div>
 
 <br>
@@ -99,9 +88,9 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 <div align="center">
   <h4>🐍 My GitHub Contributions Snake:</h4>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
