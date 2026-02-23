@@ -106,13 +106,10 @@ I believe in continuous learning and staying at the forefront of AI innovation. 
 
 ---
 
-### 🎮 Let's Play Tic-Tac-Toe!
+### 🤣 Random Dev Joke
 
 <div align="center">
-  <p>Click on any blank square below to make your move (You play as <strong>X</strong>)!</p>
-  <a href="https://github.com/imsinghaditya07/imsinghaditya07/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+readme+will+be+updated+after+approximately+1+minute.">
-    <img src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/main/tictactoe/board.svg" alt="Tic-Tac-Toe Board" />
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
 </div>
 
 <div align="center">
