@@ -52,7 +52,7 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
   <br>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash,docker,kubernetes,jupyter&theme=dark" alt="Tech Stack" />
     </a>
   </div>
 </details>
@@ -102,7 +102,7 @@ I believe in continuous learning and staying at the forefront of AI innovation. 
 
 <div align="center">
   <h4>💬 Quote of the Day:</h4>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&category=programming" alt="Quote of the Day" />
 </div>
 
 <br>
