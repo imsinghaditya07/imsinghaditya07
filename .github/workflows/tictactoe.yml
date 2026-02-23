@@ -1,0 +1,32 @@
+name: Play Tic-Tac-Toe
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'ttt|')
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: cd tictactoe && npm install
+
+      - name: Run Tic-Tac-Toe logic
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node tictactoe/index.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tictactoe/board.svg
+          git commit -m "Update tic-tac-toe logic" || echo "No changes to commit"
+          git push
