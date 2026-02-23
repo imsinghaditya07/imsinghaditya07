@@ -3,8 +3,8 @@
   
   <br>
   
-  <a href="https://linkedin.com/in/imsinghaditya07"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:imsinghaditya07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://linkedin.com/in/imsinghaditya07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+  <a href="mailto:imsinghaditya07@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40"></a>
   
   <br><br>
 
@@ -103,6 +103,17 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 ### 🎯 What Drives Me
 
 I believe in continuous learning and staying at the forefront of AI innovation. My journey in machine learning is fueled by curiosity and a commitment to creating scalable, impactful solutions. I thrive in fast-paced, team-oriented environments where collaboration meets innovation.
+
+---
+
+### 🎮 Let's Play Tic-Tac-Toe!
+
+<div align="center">
+  <p>Click on any blank square below to make your move (You play as <strong>X</strong>)!</p>
+  <a href="https://github.com/imsinghaditya07/imsinghaditya07/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+readme+will+be+updated+after+approximately+1+minute.">
+    <img src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/main/tictactoe/board.svg" alt="Tic-Tac-Toe Board" />
+  </a>
+</div>
 
 <div align="center">
   <h4>💬 Quote of the Day:</h4>
