@@ -103,12 +103,12 @@ Here are some of my top projects. Feel free to explore them!
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false&v=1" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Langs" />
 </div>
 
 <br>
