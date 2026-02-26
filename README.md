@@ -45,6 +45,18 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 
 ---
 
+### 📂 Featured Projects
+
+Here are some of my top projects. Feel free to explore them! *(Make sure to replace the `#` links with your actual project repositories)*
+
+| Project Name | Description | Tech Stack | Link |
+|--------------|-------------|------------|------|
+| **[AI Video Summarizer](#)** | An AI tool that automatically generates concise summaries from long video content. | `Python`, `PyTorch`, `GenAI` | [View Project](#) |
+| **[Predictive Data Analytics](#)** | Built predictive models for business analytics to forecast trends with high accuracy. | `Scikit-Learn`, `Pandas` | [View Project](#) |
+| **[Custom Image Generator](#)** | A generative AI project used for generating unique images using stable diffusion. | `TensorFlow`, `OpenAI` | [View Project](#) |
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <details open>
@@ -79,6 +91,13 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imsinghaditya07&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=imsinghaditya07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsinghaditya07&theme=dark&hide_border=false" alt="Streak Stats" />
 </div>
@@ -96,6 +115,30 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg?v=1">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake.svg?v=1">
   </picture>
+</div>
+
+---
+
+### 🤝 Let's Collaborate!
+
+I am currently open to:
+- 💼 Machine Learning / Data Science Internships and Roles
+- 🤝 Open-source collaborations (especially in GenAI & Data Analytics)
+- 💬 Tech discussions about AI/ML, career growth, and startup ideas
+
+<div align="center">
+  <a href="https://linkedin.com/in/imsinghaditya07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:imsinghaditya07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </div>
 
 ---
