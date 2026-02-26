@@ -8,6 +8,11 @@
   
   <br><br>
 
+  <a href="https://github.com/imsinghaditya07?tab=followers"><img src="https://img.shields.io/github/followers/imsinghaditya07?logo=github&style=for-the-badge&color=0A66C2&labelColor=000000" alt="GitHub followers"></a>
+  <a href="https://github.com/imsinghaditya07"><img src="https://img.shields.io/github/stars/imsinghaditya07?logo=github&style=for-the-badge&color=0A66C2&labelColor=000000" alt="GitHub stars"></a>
+
+  <br><br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Aspiring+Machine+Learning+Engineer;B.Tech+student+in+AI+%26+ML;Passionate+about+data-driven+solutions" alt="Typing SVG" />
 </div>
 
@@ -109,6 +114,22 @@ Here are some of my top projects. Feel free to explore them! *(Make sure to repl
 <br>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsinghaditya07&bg_color=0D1117&color=58A6FF&line=3670A0&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br><br>
+
+### 🧑‍💻 Coding Stats
+
+<div align="center">
+  <a href="https://leetcode.com/imsinghaditya07">
+    <img src="https://leetcard.jacoblin.cool/imsinghaditya07?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
   <h4>🐍 My GitHub Contributions Snake:</h4>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsinghaditya07/imsinghaditya07/output/github-contribution-grid-snake-dark.svg?v=1">
@@ -163,7 +184,13 @@ I believe in continuous learning and staying at the forefront of AI innovation. 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsinghaditya07&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imsinghaditya07&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Data will talk to you if you're willing to listen."</i>
 </div>
 
 <!-- Proudly updated for an epic GitHub Profile -->
