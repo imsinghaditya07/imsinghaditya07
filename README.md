@@ -52,13 +52,13 @@ I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** 
 
 ### 📂 Featured Projects
 
-Here are some of my top projects. Feel free to explore them! *(Make sure to replace the `#` links with your actual project repositories)*
+Here are some of my top projects. Feel free to explore them!
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| **[AI Video Summarizer](#)** | An AI tool that automatically generates concise summaries from long video content. | `Python`, `PyTorch`, `GenAI` | [View Project](#) |
-| **[Predictive Data Analytics](#)** | Built predictive models for business analytics to forecast trends with high accuracy. | `Scikit-Learn`, `Pandas` | [View Project](#) |
-| **[Custom Image Generator](#)** | A generative AI project used for generating unique images using stable diffusion. | `TensorFlow`, `OpenAI` | [View Project](#) |
+| **[Machine Learning Tasks](https://github.com/imsinghaditya07/PRODIGY-ML-01)** | Implementing various machine learning models for real-world datasets as part of my Prodigy ML internship. | `Python`, `Jupyter` | [View Project](https://github.com/imsinghaditya07/PRODIGY-ML-01) |
+| **[Calorie Tracker Backend](https://github.com/imsinghaditya07/Calorie-teacker-using-Django)** | A backend web application designed for tracking daily nutritional and caloric intake. | `Python`, `Django` | [View Project](https://github.com/imsinghaditya07/Calorie-teacker-using-Django) |
+| **[Course Selling API](https://github.com/imsinghaditya07/Backend-CourseSelling-App)** | A robust backend application system built for a course selling and purchasing platform. | `JavaScript`, `Node.js` | [View Project](https://github.com/imsinghaditya07/Backend-CourseSelling-App) |
 
 ---
 
