@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** at Maulana Abul Kalam Azad University of Technology, West Bengal. I'm passionate about building data-driven solutions and applying AI to solve real-world problems.
+I'm an aspiring **Machine Learning Engineer** and **B.Tech student in AI & ML** at Maulana Abul Kalam Azad University of Technology, West Bengal. I'm deeply passionate about building data-driven solutions and applying Artificial Intelligence to solve real-world problems.
 
 ### 💡 What I Do
 
