@@ -190,7 +190,7 @@ I believe in continuous learning and staying at the forefront of AI innovation. 
 <br>
 
 <div align="center">
-  <i>"Data will talk to you if you're willing to listen."</i>
+  <i>"Data will talk to you if you're willing to listen." — Jim Bergeson</i>
 </div>
 
 <!-- Proudly updated for an epic GitHub Profile -->
