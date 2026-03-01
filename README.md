@@ -69,7 +69,7 @@ Here are some of my top projects. Feel free to explore them!
   <br>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,nginx,git,github,pytorch,tensorflow,bash,docker,kubernetes,jupyter,supabase&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,nextjs,aws,gcp,azure,vercel,netlify,firebase,django,fastapi,linux,mongodb,mysql,postman,nginx,git,github,pytorch,tensorflow,bash,docker,kubernetes,jupyter,supabase&theme=dark" alt="Tech Stack" />
     </a>
   </div>
 </details>
